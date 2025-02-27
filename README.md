@@ -19,6 +19,11 @@ A compilation of my activities, hands-on projects, and side projects to showcase
 | Project / Online Course                                                                 | Description                                                                                                                              | Tools Used        | 
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------
 | [Adventure Works Dashboard](https://github.com/Juaaanits/Adventure-Work-Dashboard)                     | Developed a dashboard for the Adventure Works Sales dataset using Power BI         |    Power BI         | 
+| [DataCamp Data Analysis using Python Projects](https://github.com/Juaaanits/DataCamp-Projects)                     | Compilation of Data Analysis Projects whle taking courses in DataCamp         |    Python(NumPy, Pandas, Matplotlib, Seaborn)         | 
+
+
+
+
 
 <a id='Web Development'></a>
 ## Web Development
