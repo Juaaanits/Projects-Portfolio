@@ -11,7 +11,7 @@ A compilation of my activities, hands-on projects, and side projects to showcase
 ## Cybersecurity
 | Project / Online Course                                                                 | Description                                                                                                                              | Tools Used        | 
 |-------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------
-| [Google Cybersecurity Portfolio](https://github.com/carlajeanne/Adventure_Work_Dashboard)                     | A compilation of hands-on activities based on the real-world scenarios under the field of Networks and Security                                                  |    Python, SQL, Linux, Wireshark         | 
+| [Google Cybersecurity Portfolio](https://github.com/Juaaanits/Google-Cybersecurity-Portfolio)                    | A compilation of hands-on activities based on the real-world scenarios under the field of Networks and Security                                                  |    Python, SQL, Linux, Wireshark         | 
 
 
 <a id='DataAnalytics'></a>
